@@ -1,0 +1,1 @@
+<view><com-cell vue-id="1" titles="{{titles}}" bind:__l="__l"></com-cell><com-cell vue-id="2" titles="{{titles}}" bind:__l="__l"></com-cell><com-cell vue-id="3" titles="{{titles}}" bind:__l="__l"></com-cell></view>
