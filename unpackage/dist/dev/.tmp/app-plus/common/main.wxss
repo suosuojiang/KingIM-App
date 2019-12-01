@@ -1,8 +1,0 @@
-.com-one-line{
-	overflow: hidden;
-	-o-text-overflow: ellipsis;
-	   text-overflow: ellipsis;
-	white-space: nowrap;
-}
-/*每个页面公共css */
-
